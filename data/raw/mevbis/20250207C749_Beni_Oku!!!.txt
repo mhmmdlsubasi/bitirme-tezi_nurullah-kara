@@ -1,0 +1,11 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17330|S?L?FKE|Mersin|Silifke|36.3824|33.9373|10
+17868|AF??N|Kahramanmara?|Af?in|38.2405|36.9190|1230
+17956|MUT|Mersin|Mut|36.6514|33.4339|340
+17958|ERDEML?|Mersin|Erdemli|36.6268|34.3380|7
+17978|TARSUS|Mersin|Tarsus|36.8942|34.9597|12
+18287|TOROSLAR/ARSLANK?Y|Mersin|Toroslar|37.0581|34.3628|1440
+8895|GULNAR              |Mersin||36.333300|33.400000|925
+18866|DULKAD?RO?LU/ELMALAR ORMAN SAHASI|Kahramanmara?|Dulkadiro?lu|37.5419|37.1164|925
+18867|ON?K??UBAT/TEK?R BELDES?|Kahramanmara?|Oniki?ubat|37.8883|36.6172|1095
+18989|Mezitli/?evlik K?y?|Mersin|Mezitli|36.785843|34.460015|279

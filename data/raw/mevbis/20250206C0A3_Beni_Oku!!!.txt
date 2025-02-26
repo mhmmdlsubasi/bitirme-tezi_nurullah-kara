@@ -1,0 +1,9 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17238|BURDUR|Burdur|Merkez|37.7220|30.2940|957
+17240|ISPARTA|Isparta|Merkez|37.7848|30.5679|997
+17255|KAHRAMANMARA?|Kahramanmara?|Oniki?ubat|37.5760|36.9150|572
+17302|ANTALYA B?LGE|Antalya|Muratpa?a|36.8851|30.6828|47
+17340|MERS?N|Mersin|Yeni?ehir|36.7808|34.6031|7
+17351|ADANA B?LGE|Adana|Y?re?ir|37.0041|35.3443|23
+17355|OSMAN?YE|Osmaniye|Merkez|37.1021|36.2539|94
+17371|HATAY HAVAL?MANI|Hatay|Antakya|36.3615|36.2829|82

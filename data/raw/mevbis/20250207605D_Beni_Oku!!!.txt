@@ -1,0 +1,11 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17320|ANAMUR|Mersin|Anamur|36.0686|32.8649|2
+17826|SEN?RKENT|Isparta|Senirkent|38.1047|30.5577|959
+17828|YALVA?|Isparta|Yalva?|38.2830|31.1778|1096
+17863|?ARK?KARA?A?|Isparta|?arkikaraa?a?|38.0630|31.3558|1158
+17864|ULUBORLU|Isparta|Uluborlu|38.0860|30.4582|1025
+17893|S?T??LER|Isparta|S?t??ler|37.4939|30.9721|985
+18060|?AMLIYAYLA/MEYVEC?L?K AR?. (TAGEM)|Mersin|?aml?yayla|37.1756|34.6050|1115
+18061|MERS?N/AYDINCIK|Mersin|Ayd?nc?k|36.1442|33.3228|2
+18115|YEN??ARBADEML?|Isparta|Yeni?arbademli|37.7181|31.4056|1169
+18284|BOZYAZI|Mersin|Bozyaz?|36.1372|33.1297|20

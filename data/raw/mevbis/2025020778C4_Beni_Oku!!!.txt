@@ -1,0 +1,5 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17907|KAD?RL?|Osmaniye|Kadirli|37.3575|36.0907|86
+18289|HASANBEYL?|Osmaniye|Hasanbeyli|37.1333|36.5667|909
+18290|TOPRAKKALE|Osmaniye|Toprakkale|37.0743|36.1464|106
+19184|SUMBAS|Osmaniye |Sumbas|37.465682|36.023805|172

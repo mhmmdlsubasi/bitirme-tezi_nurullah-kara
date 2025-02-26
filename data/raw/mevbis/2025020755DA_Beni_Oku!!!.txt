@@ -1,0 +1,11 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17866|G?KSUN|Kahramanmara?|G?ksun|38.0240|36.4823|1344
+17870|ELB?STAN|Kahramanmara?|Elbistan|38.2038|37.1982|1137
+18063|BAH?E|Osmaniye|Bah?e|37.2022|36.5778|606
+18064|D?Z???|Osmaniye|D?zi?i|37.2620|36.4542|366
+18156|ANDIRIN|Kahramanmara?|And?r?n|37.5908|36.3642|1108
+18157|PAZARCIK|Kahramanmara?|Pazarc?k|37.4736|37.2386|787
+18279|?A?LAYANCER?T|Kahramanmara?|?a?layancerit|37.7472|37.3722|1001
+18280|EK?N?Z?|Kahramanmara?|Ekin?z?|38.0494|37.1872|1246
+18281|NURHAK|Kahramanmara?|Nurhak|37.9564|37.4472|1368
+18282|T?RKO?LU|Kahramanmara?|T?rko?lu|37.3835|36.8427|535

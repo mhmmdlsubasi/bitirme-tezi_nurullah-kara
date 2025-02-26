@@ -1,0 +1,11 @@
+?stasyon Numaras?|?stasyon Ad?|?l|?l?e|Enlem|Boylam|Rak?m
+17304|KONYAALTI|Antalya|Konyaalt?|36.8400|30.6100|4
+17926|KORKUTEL?|Antalya|Korkuteli|37.0565|30.1910|1017
+17951|KUMLUCA|Antalya|Kumluca|36.3646|30.2978|60
+17954|MANAVGAT|Antalya|Manavgat|36.7895|31.4410|38
+17960|CEYHAN|Adana|Ceyhan|37.0153|35.7955|30
+18258|ALADA?|Adana|Alada?|37.5461|35.3929|840
+18268|?UKUROVA|Adana|?ukurova|37.0578|35.2614|165
+8713|KEMER ANTALYA       |Antalya||36.600000|30.566600|10
+8364|SERIK               |Antalya||36.916600|31.100000|50
+19374|Kepez|Antalya|Kepez|36.936031|30.700814|101
