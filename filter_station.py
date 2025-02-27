@@ -5,7 +5,7 @@ df = pd.read_csv("data/processed/mgm.csv")
 df["datetime"] = pd.to_datetime(df["datetime"])
 
 # İlgili tarih aralığındaki verileri filtrele
-baslangic_tarihi = "1994-01-01"
+baslangic_tarihi = "1987-01-01"
 bitis_tarihi = "2024-12-01"
 df_filtreli = df[
     (df["datetime"] >= baslangic_tarihi) & (df["datetime"] <= bitis_tarihi)
@@ -20,7 +20,7 @@ istasyon_tarih_sayisi = df_filtreli.groupby("Istasyon_No")[
 # print(sorted(istasyon_tarih_sayisi.unique(), reverse=True))
 
 # Belirli bir eşik değerine göre istasyonları filtrele (örneğin 360 gün)
-esik_gun_sayisi = 360
+esik_gun_sayisi = 12 * 37
 gecerli_istasyonlar = istasyon_tarih_sayisi[
     istasyon_tarih_sayisi >= esik_gun_sayisi
 ].index
