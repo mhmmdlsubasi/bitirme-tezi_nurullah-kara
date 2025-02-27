@@ -13,18 +13,8 @@ ds["datetime"] = pd.to_datetime(ds["datetime"])
 # Tüm veri için R² hesapla
 r2_all = ds.groupby(["İl", "Istasyon_No"]).apply(calculate_r2)
 
-# Her ilin maksimum R² değerine sahip istasyonunu seç
-max_r2_istasyonlari = r2_all.groupby("İl").idxmax()
+r2_all = r2_all[r2_all >= 0.75]  # R² 0.75 den buyuk olan istasyonları al
 
-# Seçilen istasyonların R² değerlerini ve bilgilerini al
-max_r2_istasyonlari = r2_all.loc[max_r2_istasyonlari]
-
-# print(max_r2_istasyonlari)
-
-ds = ds[ds["Istasyon_No"].isin(max_r2_istasyonlari.index.get_level_values(1))]
-
-selected_stations = list(ds["Istasyon_No"].unique())
-
-ds = ds[ds["Istasyon_No"].isin(selected_stations)]
+ds = ds[ds["Istasyon_No"].isin(r2_all.index.get_level_values(1))]
 
 ds.to_csv("data/processed/final.csv", index=False)
