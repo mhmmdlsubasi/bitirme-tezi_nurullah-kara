@@ -19,8 +19,10 @@ istasyon_tarih_sayisi = df_filtreli.groupby("Istasyon_No")[
 # Benzersiz tarih sayılarının dağılımını büyükten küçüğe sırala ve ekrana yazdır
 # print(sorted(istasyon_tarih_sayisi.unique(), reverse=True))
 
-# Belirli bir eşik değerine göre istasyonları filtrele (örneğin 360 gün)
-esik_gun_sayisi = 12 * 37
+# Belirli bir eşik değerine göre istasyonları filtrele
+esik_gun_sayisi = (
+    12 * 37
+)  # eksik veri olan istasyonları filtrelemek için gerekli tarih sayısı
 gecerli_istasyonlar = istasyon_tarih_sayisi[
     istasyon_tarih_sayisi >= esik_gun_sayisi
 ].index
